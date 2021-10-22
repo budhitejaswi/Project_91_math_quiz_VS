@@ -1,0 +1,86 @@
+body
+{
+	background-image:url(https://besthqwallpapers.com/Uploads/13-1-2021/151483/thumb2-math-blackboard-texture-background-with-geometric-shapes-math-background-math-texture-geometric-lines-shapes-texture.jpg);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#number1
+{
+	width: 60%;
+}
+#number2
+{
+	width: 60%;
+}
+#number3
+{
+	width: 60%;
+}
+#number_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1 {
+    color:aliceblue;
+    border: ridge;
+    background-color:cadetblue;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: fantasy;
+}
+
+h2 {
+    color:rgb(28, 51, 50);
+    background-color:lightgreen;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 39px;
+    font-family: monospace;
+}
+
+
+#player1_name {
+	color: white;
+}
+#player2_name {
+	color: white;
+}
+
+#player1_score {
+	color: white;
+}
+
+#player2_score {
+	color: white;
+}
+
+#player_question {
+	color:white;
+}
+
+#player_answer {
+	color:white;
+}
